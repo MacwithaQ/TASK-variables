@@ -14,7 +14,7 @@ let fullName = "Mohammed Alqallaf";
 let yearOfBirth = 1994;
 let hobby = "Music Production";
 let funFact = "I love fishing";
-const image = new URL("https://media-exp1.licdn.com/dms/image/C4E03AQFG_Hs4OCb9XQ/profile-displayphoto-shrink_800_800/0/1623917382667?e=1646870400&v=beta&t=iYo63Tv2yTLzuoNRH9U1m5zCsfvr5W412kqZLnbQ8rc");
+const image = "https://media-exp1.licdn.com/dms/image/C4E03AQFG_Hs4OCb9XQ/profile-displayphoto-shrink_800_800/0/1623917382667?e=1646870400&v=beta&t=iYo63Tv2yTLzuoNRH9U1m5zCsfvr5W412kqZLnbQ8rc";
 
 
 
